@@ -7,10 +7,11 @@ modified: '2020-05-15T13:07:04.566Z'
 # Detecting Structural variants from matrix view images
 
 ### Layout of the images
-||||
+| 1 | 2| 3 | 4|
 |---|---|---|---|
 |BNSanger | BNSon | BNEve | BN-Lx|
 |BXH10 | HXB15 | HXB25 |SHR-Ola|
+
 
 ### Large tandem duplication in SHR, BXH10, HXB15 but not in HXB25
 ![](images/loc_chr10_100030000-100300000.png)
