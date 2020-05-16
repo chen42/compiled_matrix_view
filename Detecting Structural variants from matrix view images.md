@@ -6,13 +6,13 @@ modified: '2020-05-15T13:07:04.566Z'
 
 # Detecting Structural variants from matrix view images
 
-### Layout of the images.
+### Layout of the images
 ||||
-|---|---|---|
+|---|---|---|---|
 |BNSanger | BNSon | BNEve | BN-Lx|
 |BXH10 | HXB15 | HXB25 |SHR-Ola|
 
-### Large tandem duplication in SHR, BXH10, HXB15 but no tin HXB25
+### Large tandem duplication in SHR, BXH10, HXB15 but not in HXB25
 ![](images/loc_chr10_100030000-100300000.png)
 ---
 ### Relatively small deletion in BXH10, HXB15, and SHR
@@ -66,6 +66,6 @@ modified: '2020-05-15T13:07:04.566Z'
 ### Small het deletion in BN enlarged and become homozygotic in SHR and BXH10
 ![](images/loc_chr12_2187910-2422279.png)
 ---
-### this is called as a DEL in longranger.
+### This is called as a deletion by longranger.
 ![](images/loc_chr12_3669122-3907809.png)
 
